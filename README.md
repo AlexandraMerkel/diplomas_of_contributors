@@ -1,1 +1,2 @@
-# diplomas_of_contributors
+Diplomas of top 3 repo contributors
+
